@@ -1,0 +1,15 @@
+{
+    "python.pythonPath": "/opt/anaconda3/bin/python",
+    "git.ignoreLimitWarning": true,
+    "files.associations": {
+        "iostream": "cpp",
+        "ostream": "cpp",
+        "__bit_reference": "cpp",
+        "algorithm": "cpp",
+        "bitset": "cpp",
+        "chrono": "cpp",
+        "unordered_map": "cpp",
+        "vector": "cpp",
+        "iomanip": "cpp"
+    }
+}
